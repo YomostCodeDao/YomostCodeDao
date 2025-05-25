@@ -7,7 +7,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning: Backend Dev<br>💬 Ask me about: 0353169175<br>⚡ Fun fact
+🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning: Backend Dev<br>💬 Ask me about: <b>0353169175</b><br>⚡ Fun fact
 
 
 ## 🌐 Socials:
