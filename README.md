@@ -1,15 +1,5 @@
 <h2 align="left">Hi 👋! My name is Phuc Nguyen and I'm a Student, from VietNam <img align="right" height="150" src="https://i.pinimg.com/originals/ba/fc/cd/bafccd3d93e77137e7753face3eefc69.gif"  /></h2>
 
-###
-
-
-
-###
-
-# 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning: <b>Backend Dev</b><br>💬 Ask me about: <b>0353169175</b><br>⚡ Fun fact
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/YffhUwzs8f) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/phucNguyen.1228) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__y0m0st__/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@y0m0stisme) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@yomostkillaura) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phucnguyen2812cuwin@gmail.com) 
 
